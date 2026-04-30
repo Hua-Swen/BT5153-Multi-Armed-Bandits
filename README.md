@@ -93,7 +93,7 @@ The evaluation compares algorithms based on cumulative regret over time. Key fin
 ## Files Structure
 
 ```
-├── MIND_MAB_CONTEXTUAL_chronological_eval copy.ipynb  # Main analysis notebook
+├── BT5153 contextual MABs notebook.ipynb  # Main analysis notebook
 ├── simulation_cumulative_regret.csv                   # Regret results
 ├── simulation_cumulative_rewards.csv                  # Reward results
 ├── images/
